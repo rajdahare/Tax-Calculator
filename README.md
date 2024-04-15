@@ -60,6 +60,14 @@ We've set up the calculation process to be intuitive:
 
 These assumptions streamline the user experience, ensuring accurate data entry and clear understanding of the results.
 
+<p align="center">Examples</p>
+
+![example](Screenshot 2024-04-15 130923.jpg)
+
+(Screenshot 2024-04-15 002225.jpg)
+
+(Screenshot 2024-04-15 001840.jpg)
+
 # How to Run
 
 Step 1 : Download the Code:
