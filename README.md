@@ -62,11 +62,10 @@ These assumptions streamline the user experience, ensuring accurate data entry a
 
 <p align="center">Examples</p>
 
-![example](Screenshot 2024-04-15 130923.jpg)
+![examples](img4.jpg)
 
-(Screenshot 2024-04-15 002225.jpg)
-
-(Screenshot 2024-04-15 001840.jpg)
+![examples](img1.jpg)
+![examples](img2.jpg)
 
 # How to Run
 
