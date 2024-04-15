@@ -60,7 +60,7 @@ We've set up the calculation process to be intuitive:
 
 These assumptions streamline the user experience, ensuring accurate data entry and clear understanding of the results.
 
-<p align="center">Examples</p>
+# <p align="center">Examples</p>
 
 ![examples](img4.jpg)
 
