@@ -2,9 +2,9 @@
 
 This tool helps you figure out how much money you'll have left after paying taxes. It takes into account your main income, any extra money you make, your age group, and any deductions you can claim.
 
-# Live Deployed link
+# Deployed link
 
-
+https://tax-calculator-swart.vercel.app/
 
 # How it works
 
@@ -14,9 +14,6 @@ Age Group: You select your age group. This helps determine the tax rules that ap
 Deductions: You can enter any tax deductions you're eligible for. This reduces the amount of income you're taxed on.
 Submit: After filling in the details, you hit the submit button.
 
-# What you get
-
-The calculator crunches the numbers and shows you how much money you'll have left after taxes. It considers everything you've entered to give you an accurate estimate.
 
 ## References & Requirements
 
